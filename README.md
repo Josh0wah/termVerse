@@ -2,7 +2,6 @@
 termVerse is a simple Python script that will display the Bible verse of the day from VerseOfTheDay.com directly in your Linux terminal.
 
 **Installation:**
-  Dependencies:
   1. Make sure Python is installed on your system
      e.g.
      Ubuntu/Debian-based distro:
@@ -23,7 +22,7 @@ termVerse is a simple Python script that will display the Bible verse of the day
    3. Download the termVerse.py file to wherever you save your scripts e.g. ~/.scripts
 
 **Usage:**
-  You'll likely want to either have termVerse run whenever you launch a new terminal, or assign it to a command
+  You'll likely want to either have termVerse run whenever you launch a new terminal or assign it to a command
 
   To run on launch, add the following line to the end of your .bashrc or .zshrc file:
   python path/to/script/termVerse.py

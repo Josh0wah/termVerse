@@ -38,8 +38,10 @@ termVerse is a simple Python script that will display the Bible verse of the day
   You'll likely want to either have termVerse run whenever you launch a new terminal or assign it to a command
 
   To run on launch, add the following line to the end of your .bashrc or .zshrc file:
+ 
   python path/to/script/termVerse.py
 
   To assign to a command, add an alias to your .bashrc or .zshrc file
   e.g.
+  
   alias votd='python path/to/script/termVerse.py'

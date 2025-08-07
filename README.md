@@ -29,7 +29,7 @@ termVerse is a simple Python script that will display the Bible verse of the day
 
      $ sudo pacman -S python-requests
 
-     $ sudo pacman -S install python-beautifulsoup4
+     $ sudo pacman -S python-beautifulsoup4
 
    5. Download the termVerse.py file to wherever you save your scripts e.g. ~/.scripts
 
